@@ -61,7 +61,8 @@ NBDT 2021. [[paper](https://arxiv.org/abs/2108.01210)] [[code](https://github.co
 
 ### Other resources:
 - The NeuroAI archive [[website](https://www.neuroai.science/)]
-
+- COSYNE 2025 workshop "Neuro-Foundation Models" [[website](https://neurofm-workshop.github.io/)]
+- COSYNE 2025 tutorial "Transformers in Neuroscience" [[website](https://cosyne-tutorial-2025.github.io/)]
 
 ### Scaling trends for neuro-foundation models
 ![](model_size.png)
