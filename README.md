@@ -26,6 +26,8 @@ an issue or submit a pull request**.
 
 - **CEBRA**: Learnable latent embeddings for joint behavioural and neural analysis. Nature 2023 [[paper](https://www.nature.com/articles/s41586-023-06031-6)] [[project page](https://cebra.ai)]
 
+- **Jiang et al.**: Data Heterogeneity Limits the Scaling Effect of Pretraining Neural Data Transformers. Preprint, 2025 [[paper](https://www.biorxiv.org/content/10.1101/2025.05.12.653551v1.abstract)]
+
 ### Other relevant models
 
 - **Neuroformer**: Neuroformer: Multimodal and Multitask Generative Pretraining for Brain Data, ICLR 2024 [[paper](https://arxiv.org/abs/2311.00136)] [[project page](https://a-antoniades.github.io/Neuroformer_web/)]
