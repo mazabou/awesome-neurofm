@@ -27,6 +27,7 @@ an issue or submit a pull request**.
 - **CEBRA**: Learnable latent embeddings for joint behavioural and neural analysis. Nature 2023 [[paper](https://www.nature.com/articles/s41586-023-06031-6)] [[project page](https://cebra.ai)]
 
 - **Jiang et al.**: Data Heterogeneity Limits the Scaling Effect of Pretraining Neural Data Transformers. Preprint, 2025 [[paper](https://www.biorxiv.org/content/10.1101/2025.05.12.653551v1.abstract)]
+- **NEDS**: Neural Encoding and Decoding at Scale. Multimodal, multi-task model that jointly performs neural encoding and behavior decoding via a multi-task masking strategy; pretrained on IBL repeated-site data across 80+ animals. Preprint, 2025 [[paper]](https://arxiv.org/abs/2504.08201) [[project page]](https://ibl-neds.github.io/) [[code]](https://github.com/yzhang511/NEDS)
 
 ### Other relevant models
 
