@@ -14,6 +14,8 @@ an issue or submit a pull request**.
 
 - **POYO+**: Multi-session, multi-task neural decoding from distinct cell-types and brain regions. ICLR 2025 [[paper](https://openreview.net/forum?id=IuU0wcO0mo)]
 
+- **POSSM**: Generalizable, real-time neural decoding with hybrid state-space models. NeurIPS 2025 [[paper](https://arxiv.org/abs/2506.05320)] [[project page](https://possm-brain.github.io)]
+
 - **NDT2**: Neural Data Transformer 2: Multi-context Pretraining for Neural Spiking Activity. NeurIPS 2023 [[paper](https://proceedings.neurips.cc/paper_files/paper/2023)] [[code](https://github.com/joel99/context_general_bci)]
 
 - **MtM**: Towards a "universal translator" for neural dynamics at single-cell, single-spike resolution. NeurIPS 2024 [[paper](https://openreview.net/forum?id=CBBtMnlTGq)] [[project page](https://ibl-mtm.github.io/)]
